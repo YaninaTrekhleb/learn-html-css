@@ -1,2 +1,2 @@
-# HTML exercise 1.
+# HTML exercise 1
 
