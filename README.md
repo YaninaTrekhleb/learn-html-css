@@ -2,6 +2,6 @@
 
 ## HTML exercises
 
-- [Exersice 1](HTML/Exercise 1)
+- [Exersice 1](html/exercise-1)
 
 ## CSS exercises
