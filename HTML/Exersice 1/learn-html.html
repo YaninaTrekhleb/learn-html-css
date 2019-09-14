@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML Basics</title>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div id="container">
+        <div id="content" role="main">
+          <a href="https://www.w3schools.com/html/default.asp">
+            <img src="./html-illustration.png" alt="html-logo">
+          </a>
+
+          <h1 id="home">HTML Elements</h1>
+
+          <header>
+            <hr/>
+            <nav>
+              <a href="#home">Home</a>
+              <a href="#headers">Headers</a>
+              <a href="#table">Table</a>
+              <a href="#list">List</a>
+              <a href="#text-formats">Text formats</a>
+              <a href="#blockquotes">Blockquotes</a>
+            </nav>
+            <hr/>
+          </header>
+
+          <p>
+            Headings are defined with the <b>h1</b> to <b>h6</b> tags. </br>
+            <em><b>H1</b></em> defines the most important heading. </br>
+            <em><b>H6</b></em> defines the least important heading. </br>
+          </p>
+
+          <h2 id="headers">Header 2</h2>
+          <h3>Header 3</h3>
+          <h4>Header 4</h4>
+          <h5>Header 5</h5>
+          <h6>Header 6</h6>
+          <hr/>
+
+          <p>
+            Let’s try some <i>style attribute</i>, <a href="https://www.google.com/">here is a test link</a>.
+            <strong>This is strong.</strong> Good job.
+            <em>This is emphasized.</em> Keep doing.
+            I don’t like math, but here is how it looks like. 9<sup>3</sup> = 729. 
+            Do you know that water H<sub>2</sub>O is?.
+            <cite>The New York Times</cite> (That’s a citation).<u>Underline looks so.</u> 
+          </p>
+          <p>
+            <abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> 
+            hold your mouse here to find out what it is.
+            To copy a file type <code>COPY</code> <i>filename.</i> <del>Learn to code</del> 
+            <ins>I’ll try.</ins>
+          </p>
+          <hr/>
+
+          <h2 id="table">Table</h2>
+          
+          <table>
+            <thead>
+              <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>City</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Sanna</td>
+                <td>Danne</td>
+                <td>54</td>
+              </tr>
+              <tr>
+                <td>Armas</td>
+                <td>Hildimar</td>
+                <td>44</td>
+              </tr>
+              <tr>
+                <td>Maksim</td>
+                <td>Omolara</td>
+                <td>38</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr/>
+
+          <h2 id="list">Unordered List</h2>
+
+          <ul>
+            <li>Apple</li>
+            <li>Tea
+              <ul>
+                <li>Green tea</li>
+              </ul>
+            </li>
+            <li>Banana</li>
+          </ul>
+
+          <h2>Ordered List</h2>
+
+          <ol>
+            <li>Pizza</li>
+            <li>BBQ
+              <ol>
+                <li>Burgers</li>
+              </ol>
+            </li>
+            <li>Ice cream</li>
+          </ol>
+
+          <h3>Definition List</h3>
+
+          <dl>
+            <dt>Home</dt>
+              <dd>
+                A home, or domicile, is a living space used as 
+                a permanent or semi-permanent 
+                residence for an individual, 
+                family, household or several families in a tribe
+              </dd>
+            <dt>Building</dt>
+              <dd>
+                A building, or edifice, is a structure with 
+                a roof and walls standing more or less permanently 
+                in one place, such as a house or factory.
+              </dd> 
+          </dl>
+          
+          <span>Choose what you already know?</span>
+          <select>
+            <option value="HTML">HTML</option>
+            <option value="CSS">CSS</option>
+            <option value="JS">JS</option>
+          </select>
+          <hr/>
+
+          <h2 id="text-formats">Text formats</h2>
+
+          <h3>Article text</h3>
+
+          <h2>Article title</h2>
+
+          <h4>Article description</h4>
+
+          <h3>Preformatted text</h3>
+
+          <pre>
+<strong>What</strong> 
+  is  <strong>going</strong> on
+    with the 
+            <i>text</i>?
+          </pre>
+
+          <h3>Code</h3>
+
+          
+          <pre>
+            <code>
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+}           </code>
+          </pre>
+          <hr>
+
+          <h2>Blockquotes</h2>
+
+          <blockquote id="blockquotes">
+            "NOTHING WILL WORK UNLESS YOU DO."
+            <br>
+            <a href="https://en.wikipedia.org/wiki/Maya_Angelou">MAYA ANGELOU</a>
+          </blockquote> 
+          
+          <hr/>
+
+          <h2>
+            Form
+          </h2>
+
+          <form action="/action_page.php">
+            First name:
+            <input type="text" name="firstname" value=""> <br>
+            Surname:
+            <input type="text" name="lastname" value=""> <br>
+            Email:
+            <input type="text" name="email" value=""> <br>
+            <textarea rows="10" cols="30"> </textarea> <br>
+            <button type="submit">Submit</button>
+          </form>
+
+          <footer>
+              <p>&copy; 
+                <a href="https://github.com/YaninaTrekhleb">
+                  Here is my GitHub page
+                </a>
+              </br>
+                <a href="https://www.instagram.com/yanina_trekhleb/">
+                  Yes, it looks like promotion.. but also let me put my instagram page...:)
+                </a>
+              </p>
+          </footer>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

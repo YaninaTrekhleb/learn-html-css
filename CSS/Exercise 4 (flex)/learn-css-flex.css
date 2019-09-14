@@ -1,0 +1,84 @@
+body {
+    margin: auto;
+    max-width: 1000px;
+    overflow: auto;
+}
+
+h1 {
+    color: rgb(108, 197, 248);
+    text-align: center;
+}
+
+.site-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.red,
+.latte,
+.lemone,
+.rose,
+.green,
+.flamingo,
+.iris,
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin: 1px;
+    font-family: sans-serif;
+    text-align: center;
+    height: 100px;
+}
+
+.red {
+    background-color: #e22463;
+}
+
+.latte {
+    background-color: #d0ad7b;
+}
+
+.lemone {
+    background-color: #ffcf35;
+}
+
+.rose {
+    background-color: #ff92a3;
+}
+
+.green {
+    background-color: #7bbb44;
+}
+
+.flamingo {
+    background-color: #ff6081;
+}
+
+.iris {
+    background-color: #575772;
+}
+
+.blue {
+    background-color: #7f7fff;
+}
+
+.header {
+    flex: 1;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.main > div {
+    flex: 1;
+}
+
+footer {
+    margin-top: 100px;
+}

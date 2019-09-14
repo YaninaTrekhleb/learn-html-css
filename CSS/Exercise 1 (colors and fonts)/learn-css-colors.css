@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(78, 144, 175);
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: rgb(106, 106, 243);
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(230, 137, 152);
+}
+
+h5 {
+    color: rgb(180, 180, 235);
+    font-size: 2em;
+}
+
+h6 {
+    color: rgb(255, 255, 93);
+    font-size: 3rem;
+}
+
+/* You dont nedd to know it right now :) */
+footer p a {
+    color: rgb(192, 192, 250);
+    font-weight: 10px;
+}

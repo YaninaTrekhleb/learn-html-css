@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(108, 133, 92);
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+.title-medium {
+    color: rgb(100, 216, 236);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#boss-selector {
+    background-color: aqua;
+    color: rgb(148, 185, 46);
+    font-size: 25px;
+}
+
+.look-here {
+    background-color: rgb(212, 240, 241);
+    font-family: sans-serif;
+}
+
+.look-here p {
+    color: red;
+}
+
+.look-here p:last-child {
+    color: blue;
+}
+
+.odd-even {
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.odd-even {
+    background-color: rgb(245, 219, 253);
+}
+
+.odd-even p:nth-child(odd) {
+    color: rgb(13, 34, 94);
+}
+
+.odd-even p:nth-child(even) {
+    color: rgb(202, 55, 29);
+}
+
+footer a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: yellow;
+}
