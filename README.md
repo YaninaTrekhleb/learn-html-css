@@ -6,3 +6,6 @@
 - [Exersice 2](html/exercise-2)
 
 ## CSS exercises
+
+- [Exersice 1](css/exercise-1)
+- [Exersice 2](css/exercise-2)
