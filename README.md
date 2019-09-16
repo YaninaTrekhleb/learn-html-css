@@ -2,8 +2,8 @@
 
 ## HTML exercises
 
-### Try to make the same tasks, as on pictures (pictures are inside each exercises file).
-### If you can't manage to with some task there is a solution for each task below.
+#### Try to make the same tasks, as on pictures (pictures are inside each exercises file).
+#### If you can't manage to with some task there is a solution for each task below.
 
 - [Exersice 1 - tags](html/exercise-1)
 - [Exersice 2 - make a website page](html/exercise-2)
