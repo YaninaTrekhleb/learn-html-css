@@ -6,4 +6,4 @@
 
 ![How it looks](css-colors.png)
 
-[Code page is here](exercise-1/learn-css-colors.html)
+[Code page is here](learn-html-css/css/exercise-1/learn-css-colors.html)
