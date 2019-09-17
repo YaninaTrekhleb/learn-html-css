@@ -6,4 +6,4 @@
 
 ![How it looks](promo-site.png)
 
-[Code page is here](exercise-2/index.html)
+[Code page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/html/exercise-2/index.html)
