@@ -6,4 +6,6 @@
 
 ![How it looks](flexbox-css.png)
 
-[Code page is here]()
+[Code page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-4/learn-css-flex.html)
+
+[Style page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-4/learn-css-flex.css)

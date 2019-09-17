@@ -6,4 +6,6 @@
 
 ![How it looks](css-selectors.png)
 
-[Code page is here]()
+[Code page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-3/learn-css-selectors.html)
+
+[Style page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-3/learn-css-selectors.css)

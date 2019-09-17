@@ -6,4 +6,6 @@
 
 ![How it looks](styling-text.png)
 
-[Code page is here]()
+[Code page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-2/learn-css-styling-text.html)
+
+[Style page is here](https://github.com/YaninaTrekhleb/learn-html-css/blob/master/css/exercise-2/learn-css-styling-text.css)
