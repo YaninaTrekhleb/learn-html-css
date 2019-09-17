@@ -6,4 +6,4 @@
 
 ![How it looks](task-one-demo.png)
 
-[Code page is here](learn-html-css/html/exercise-1/learn-html.html)
+[Code page is here](html/exercise-1/learn-html.html)
